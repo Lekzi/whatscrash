@@ -8,4 +8,5 @@ $pip install colorama
 $apt install git
 $git clone https://github.com/Lekzi/whatscrash
 $cd whatscrash
+$ls
 $python3 whatscrash.py
